@@ -82,6 +82,8 @@
 
 [Name some ASP.NET WebForms disadvantages over MVC?](#name-some-aspnet-webforms-disadvantages-over-mvc)
 
+[What is global.asax?](#What-is-global.asax)
+
 
 
 ### What is ViewData?
@@ -534,5 +536,15 @@ MVC is almost ALWAYS the better solution. There is why:
 ###### Source
 
 * https://softwareengineering.stackexchange.com/questions/95212/when-to-favor-asp-net-webforms-over-mvc
+
+[[↑] Back to top](#aspnet)
+
+### What is global.asax?
+
+Global.asax is an optional file which is used to handling higher level application events such as Application_Start, Application_End, Session_Start, Session_End etc. It is also popularly known as ASP.NET Application File. This file resides in the root directory of an ASP.NET-based application.
+
+###### Source
+
+*http://net-informations.com/faq/asp/globalasax.htm
 
 [[↑] Back to top](#aspnet)
